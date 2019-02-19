@@ -11,7 +11,7 @@
   "plugins": [
     "transform-vue-jsx",
     "transform-runtime",
-    //按需引入 npm i babel-plugin-import -D
+    //按需引入vant组件库 npm i babel-plugin-import -D
     ["import",{"libraryName": "vant", "style": true}]
   ]
 }
